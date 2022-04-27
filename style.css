@@ -1,9 +1,17 @@
-.header
+.header:hover {
+    background-color: red;
+}
 
-.container
+.container {
+    display: flex;
+    justify-content: space-between;
+}
 
 .logo
 
-.actions_hyperlinks
+.actions_hyperlinks{
+    display: flex;
+    align-items: center;
+}
 
 .cart
