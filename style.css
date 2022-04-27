@@ -1,5 +1,5 @@
 .header {
-    background-color: red;
+    background-color: indianred;
     color: white;
     text-decoration: none;
     min-width: 1024px;
@@ -35,13 +35,18 @@
     margin-left: 50px;
 }
 
+.headerMenuButton :hover {
+    background-color: black;
+    border-radius: 4px;
+}
 /*.headerMenu: nth-of-type(2) {flex: 2;}*/
 
 .headerMenuCart{
+    background-color: black;
     margin-right: 40px;
 }
 
-.headerMenuCartIcon
+.headerMenuCartIcon{}
 
-.headerMenuCartQuantity
+.headerMenuCartQuantity{}
 
