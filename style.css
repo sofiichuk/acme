@@ -14,6 +14,7 @@
 }
 
 .headerLogo{
+    margin-left: 40px;
 
 }
 .headerMenu {
@@ -26,10 +27,11 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    font: Sen;
+    font-size: 30px;
     color: white;
     text-decoration: none;
     padding: 50px;
-    font-size: 20px;
     margin-left: 50px;
 }
 
@@ -50,9 +52,11 @@ padding: 15px
 color: white;
 }
 */
-.headerCart{
+.headerMenuCart{
+    margin-right: 40px;
+}
 
-.headerCartIcon
+.headerMenuCartIcon
 
-.headerCartQuantity
+.headerMenuCartQuantity
 
