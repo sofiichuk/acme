@@ -52,7 +52,7 @@
 .headerCartDropdownList {
     display: none;
     position: absolute;
-    font-size: 30px;
+    font-size: 18px;
 }
 
 .headerCart:hover .headerCartDropdownList {
