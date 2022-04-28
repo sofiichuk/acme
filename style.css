@@ -50,3 +50,12 @@
 
 .headerMenuCartQuantity{}
 
+.headerMenuCartDropdown {
+    display: none;
+    position: absolute;
+}
+
+.headerMenuCart:hover .headerMenuCartDropdown {
+    display: block;
+}
+
